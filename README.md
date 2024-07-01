@@ -17,7 +17,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/vk8459698/chat-application
 ```
 
 Go to the project directory
